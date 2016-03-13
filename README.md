@@ -12,29 +12,29 @@ There are the following components
 ![Initial Design](./InitialDesign.png?raw=true "Initial Design")
 
 # Instructions to setup 
-## Presequites 
+## Prerequisites 
 1. Mongodb
 2. nodejs
 3. grunt 
 4. bower
 
 ## Setup Projects 
-1. Clone Game Platform Server from (https://github.com/ishaan-puniani/GameExecutionServer)
+1. Clone [Game Platform Server](https://github.com/ishaan-puniani/GameExecutionServer)
 
-1.1. npm install
+1. npm install
 
-1.2. bower intall
+2. bower intall
 
-1.3. grunt serve
+3. grunt serve
 
 
-2. Clone Execution Server from (https://github.com/ishaan-puniani/GamePlatformServer)
+2. Clone [Execution Server](https://github.com/ishaan-puniani/GamePlatformServer)
 
-2.1. npm install
+1. npm install
 
-2.2. bower intall
+2. bower intall
 
-2.3. grunt serve
+3. grunt serve
 
 
 
