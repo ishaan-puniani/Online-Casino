@@ -11,8 +11,29 @@ There are the following components
 # Initial Design
 ![Initial Design](./InitialDesign.png?raw=true "Initial Design")
 
+# Instructions to setup 
+## Presequites 
+1. Mongodb
+2. nodejs
+3. grunt 
+4. bower
+
+## Setup Projects 
+1. Clone Game Platform Server from (https://github.com/ishaan-puniani/GameExecutionServer)
+1.1. npm install
+1.2. bower intall
+1.3. grunt serve
+
+2. Clone Execution Server from (https://github.com/ishaan-puniani/GamePlatformServer)
+2.1. npm install
+2.2. bower intall
+2.3. grunt serve
+
+
+
 
 
 ## Create Applications on OpenShift
 rhc app create platform nodejs-0.10 mongodb-2.4 --noprompt --no-git NODE_ENV=production
+
 rhc app create gameserver nodejs-0.10 mongodb-2.4 --noprompt --no-git NODE_ENV=production
