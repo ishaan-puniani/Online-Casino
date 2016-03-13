@@ -20,15 +20,21 @@ There are the following components
 
 ## Setup Projects 
 1. Clone Game Platform Server from (https://github.com/ishaan-puniani/GameExecutionServer)
+
 1.1. npm install
+
 1.2. bower intall
+
 1.3. grunt serve
 
-2. Clone Execution Server from (https://github.com/ishaan-puniani/GamePlatformServer)
-2.1. npm install
-2.2. bower intall
-2.3. grunt serve
 
+2. Clone Execution Server from (https://github.com/ishaan-puniani/GamePlatformServer)
+
+2.1. npm install
+
+2.2. bower intall
+
+2.3. grunt serve
 
 
 
