@@ -3,8 +3,10 @@ Online Casino is a platform to host casino games and make them available over th
 There are the following components 
 
 # Components
-## GamePlatformServer [ ![Codeship Status for ishaan-puniani/GamePlatformServer](https://codeship.com/projects/f1ba8260-c8f9-0133-330b-5ee1f71ea423/status?branch=master)]
-## GameExecutionServer [ ![Codeship Status for ishaan-puniani/GameExecutionServer](https://codeship.com/projects/5c27aa00-c9a8-0133-7196-6262fcd1b2c0/status?branch=master)]
+## [GamePlatformServer](http://platform-gameolive.rhcloud.com/) [ ![Codeship Status for ishaan-puniani/GamePlatformServer](https://codeship.com/projects/f1ba8260-c8f9-0133-330b-5ee1f71ea423/status?branch=master)]
+[Demo](http://platform-gameolive.rhcloud.com/)
+## [GameExecutionServer](http://gameserver-gameolive.rhcloud.com/) [ ![Codeship Status for ishaan-puniani/GameExecutionServer](https://codeship.com/projects/5c27aa00-c9a8-0133-7196-6262fcd1b2c0/status?branch=master)]
+[Demo](http://gameserver-gameolive.rhcloud.com/)
 ## Slot_Server [ ![Codeship Status for ishaan-puniani/Slot_Server](https://codeship.com/projects/794088b0-c824-0133-6a7a-4ac43df0202f/status?branch=master)]
 ## Slot_Client [ ![Codeship Status for ishaan-puniani/Slot_Server](https://codeship.com/projects/a1faeed0-c8ec-0133-9841-06c431dd0dcf/status?branch=master)]
 
